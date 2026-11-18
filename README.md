@@ -5,7 +5,7 @@ Founder and lead engineer at **[RAVO Company](https://github.com/ravo-company)**
 - 🏗️ I build multi-tenant SaaS on **Next.js / TypeScript / PostgreSQL**: tenant isolation in the database (RLS), forward-only migrations, CI gates and on-call runbooks.
 - 🤖 I build AI products where a human stays in control: LLMs propose, people approve, and every write is audited.
 - 📈 I spent 5+ years in B2B growth (paid acquisition, CRM, sales operations) before engineering, so I build with the business metric in mind.
-- 🎓 Software Engineering @ FIAP (2024–2026) · 📍 Caldas Novas, Brazil (UTC−3) · 🗣️ Portuguese (native), English
+- 🎓 Software Engineering  · 📍 Caldas Novas, Brazil (UTC−3) · 🗣️ Portuguese (native), English
 
 ---
 
