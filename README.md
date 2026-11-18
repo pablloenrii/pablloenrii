@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo 👋
 
-Founder and lead engineer at **RAVO Company**, a Brazilian software house building AI-assisted operations software for law firms and real-estate businesses. I take products from the first conversation with the customer to production, and I keep running them after launch.
+Founder and lead engineer at **[RAVO Company](https://github.com/ravo-company)**, a Brazilian software house building AI-assisted operations software for law firms and real-estate businesses. I take products from the first conversation with the customer to production, and I keep running them after launch.
 
 - 🏗️ I build multi-tenant SaaS on **Next.js / TypeScript / PostgreSQL**: tenant isolation in the database (RLS), forward-only migrations, CI gates and on-call runbooks.
 - 🤖 I build AI products where a human stays in control: LLMs propose, people approve, and every write is audited.
@@ -11,7 +11,7 @@ Founder and lead engineer at **RAVO Company**, a Brazilian software house buildi
 
 #### Selected work
 
-Production systems with paying customers. The repositories are private because of client confidentiality; I can give access for technical interviews.
+Production systems with paying customers. The repositories live in the [ravo-company](https://github.com/ravo-company) organization and are private because of client confidentiality; I can give access for technical interviews.
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -27,4 +27,4 @@ Production systems with paying customers. The repositories are private because o
 
 ---
 
-📫 **tecnologia@ravocompany.com.br**
+📫 **sistema@ravocompany.com.br**
